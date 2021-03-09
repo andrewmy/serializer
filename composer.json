@@ -40,7 +40,7 @@
         "symfony/dependency-injection": "<3.4",
         "symfony/property-access": "<3.4",
         "symfony/property-info": "<3.4",
-        "symfony/yaml": "<3.4"
+        "symfony/yaml": "<3.0"
     },
     "suggest": {
         "psr/cache-implementation": "For using the metadata cache.",
